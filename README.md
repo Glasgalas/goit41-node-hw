@@ -3,11 +3,10 @@
 ---
 
 **Получаем и выводим весь список контактов в виде таблицы**
-![list](https://i.postimg.cc/52GyjGYD/1.png)
 
     node index -a list
 
----
+## ![list](https://i.postimg.cc/52GyjGYD/1.png)
 
 **Получаем контакт по id**
 
